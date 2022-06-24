@@ -1,0 +1,43 @@
+1.what is difference between STLC(software testing life cycle) and SDLC(software development life cycle)
+
+ANS:Software Development Life Cycle (SDLC) is a sequence of different activities performed during the software development process
+    Software Testing Life Cycle (STLC) is a sequence of different activities performed during the software testing process.
+
+2.what are verification and validation?
+
+ANS: Verification is the process for determining whether or not a product fulfills the requirements or specifications established for it.
+     Validation is the assessment of a planned or delivered system to meet the sponsor's operational need in the most realistic environment achievable
+
+3.what is authorization and authentication?
+
+ANS: authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to. The situation is like that of an airline that needs to determine which people can come on board.
+
+4.what is test management review and why it is important?
+ANS:Test Management is a process where testing activities are managed to ensures high quality and high end testing of software application. This method consists of tracking, organization, controlling process, checks visibility of the testing process in order to deliver the high quality software application.
+   Test management allows you to objectively measure quality and track progress. Historic trends can help you gain an understanding of how your efforts are progressing and, in turn, show the measurable business value of your testing efforts.
+
+5.Define client side and server side validation?
+ANS: Client-side validation is an initial check and an important feature of good user experience; by catching invalid data on the client-side, the user can fix it straight away.Validation done in the browser is called client-side validation, while validation done on the server is called server-side validation
+
+6.Explain the request response flow from front end to back end?
+
+ANS:Front and back end developers work on different sides of a website. Front end development is programming which focuses on the visual elements of a website or app that a user will interact with (the client side). Meanwhile, back end development focuses on the side of a website users can't see (the server side).
+
+
+
+7.Explain life cycle phases of the project?
+
+ANS:There are 5 phases to the project life cycle (also called the 5 process groups)—initiating, planning, executing, monitoring/controlling, and closing. Each of these project phases represents a group of interrelated processes that must take place.
+
+8.How do you define success?
+
+ANS:Success is being part of something bigger, helping an organization to meet worthy goals, to bring some value to the world. I would love to be a part of your success story. Success is being able to do your best every day in all roles you have in life, whether it is a role of a son, father, or an employee.
+
+9.What are your strengths and weakness?
+
+ANS:strength:My strength is I'm a quick learner and I'm adaptable to work in any environment And I consider my myself a focused person.
+    weakness: My weakness is I'm afraid of asking help, however I am learning to ask for help from others to expedite mt own work.
+
+10.Have you faced any challenging situation and how did you overcome it?
+
+ANS:The biggest challenges for me are: Motivation and interest losing. I don’t know if it’s like this for everyone but, motivation and interest are the main part for me. So no matter what, I’m trying my lessons to be somewhat interesting and I’m motivating myself however I can. Well, there’s a lot of challenges and it changes for everyone. The problem is not the challenge but it’s solving.
